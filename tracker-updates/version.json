@@ -1,0 +1,24 @@
+{
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "windows": {
+        "x64": {
+            "downloadUrl": "https://github.com/Sparigstack/sprigstack-tracker-releases/releases/download/v1.0.1/SprigstackTracker-1.0.1-win-x64.zip",
+            "sha256": "94870088939a9d479454e7953ccd9f021ab25e371079cf7efb1088f622691da4"
+        },
+        "x86": {
+            "downloadUrl": "https://github.com/Sparigstack/sprigstack-tracker-releases/releases/download/v1.0.1/SprigstackTracker-1.0.1-win-x86.zip",
+            "sha256": "fe252c6f18cd752628ed81b6841acd66c6a03904e921fa8d7f72e4851d5b82ec"
+        }
+    },
+    "macos": {
+        "x64": {
+            "downloadUrl": "https://github.com/Sparigstack/sprigstack-tracker-releases/releases/download/v1.0.1/SprigstackTracker-1.0.1-osx-x64.zip",
+            "sha256": "799fa7c9f2e2b9e482afec67a94610201da69622d9f4e8eaa9970dd26c24655b"
+        },
+        "arm64": {
+            "downloadUrl": "https://github.com/Sparigstack/sprigstack-tracker-releases/releases/download/v1.0.1/SprigstackTracker-1.0.1-osx-arm64.zip",
+            "sha256": "966695b37fd659041cf842ebf8cd4d048301eb8ae0a37670b85a219095a24bec"
+        }
+    }
+}
